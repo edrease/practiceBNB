@@ -13,6 +13,7 @@
 		9ED398AD1B87C8C6006AF2D3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ED398AC1B87C8C6006AF2D3 /* Images.xcassets */; };
 		9ED398B01B87C8C6006AF2D3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9ED398AE1B87C8C6006AF2D3 /* LaunchScreen.xib */; };
 		9ED398BC1B87C8C7006AF2D3 /* practiceBNBTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ED398BB1B87C8C7006AF2D3 /* practiceBNBTests.swift */; };
+		9ED398C61B87CF4B006AF2D3 /* MapsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ED398C51B87CF4B006AF2D3 /* MapsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		9ED398B51B87C8C7006AF2D3 /* practiceBNBTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = practiceBNBTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ED398BA1B87C8C7006AF2D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9ED398BB1B87C8C7006AF2D3 /* practiceBNBTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = practiceBNBTests.swift; sourceTree = "<group>"; };
+		9ED398C51B87CF4B006AF2D3 /* MapsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				9ED398AC1B87C8C6006AF2D3 /* Images.xcassets */,
 				9ED398AE1B87C8C6006AF2D3 /* LaunchScreen.xib */,
 				9ED398A31B87C8C6006AF2D3 /* Supporting Files */,
+				9ED398C51B87CF4B006AF2D3 /* MapsViewController.swift */,
 			);
 			path = practiceBNB;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9ED398C61B87CF4B006AF2D3 /* MapsViewController.swift in Sources */,
 				9ED398A81B87C8C6006AF2D3 /* ViewController.swift in Sources */,
 				9ED398A61B87C8C6006AF2D3 /* AppDelegate.swift in Sources */,
 			);
