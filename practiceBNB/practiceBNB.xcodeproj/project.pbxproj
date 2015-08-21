@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		346377571B87D62500605293 /* Spaces.swift in Sources */ = {isa = PBXBuildFile; fileRef = 346377561B87D62500605293 /* Spaces.swift */; };
 		6C93E3481B87CF5700A2EACF /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C93E3471B87CF5700A2EACF /* LoginViewController.swift */; };
 		9ED398A61B87C8C6006AF2D3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ED398A51B87C8C6006AF2D3 /* AppDelegate.swift */; };
 		9ED398A81B87C8C6006AF2D3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ED398A71B87C8C6006AF2D3 /* ViewController.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		346377561B87D62500605293 /* Spaces.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Spaces.swift; sourceTree = "<group>"; };
 		6C93E3471B87CF5700A2EACF /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		9ED398A01B87C8C6006AF2D3 /* practiceBNB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = practiceBNB.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ED398A41B87C8C6006AF2D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 			children = (
 				9ED398A51B87C8C6006AF2D3 /* AppDelegate.swift */,
 				9ED398A71B87C8C6006AF2D3 /* ViewController.swift */,
+				346377561B87D62500605293 /* Spaces.swift */,
 				9ED398A91B87C8C6006AF2D3 /* Main.storyboard */,
 				9ED398AC1B87C8C6006AF2D3 /* Images.xcassets */,
 				9ED398AE1B87C8C6006AF2D3 /* LaunchScreen.xib */,
@@ -217,6 +220,7 @@
 			files = (
 				6C93E3481B87CF5700A2EACF /* LoginViewController.swift in Sources */,
 				9ED398A81B87C8C6006AF2D3 /* ViewController.swift in Sources */,
+				346377571B87D62500605293 /* Spaces.swift in Sources */,
 				9ED398A61B87C8C6006AF2D3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
