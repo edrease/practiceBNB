@@ -12,6 +12,9 @@ class ViewController: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()
+		println("hi")
+		println("Another Print")
+		println("3rd Commit")
     // Do any additional setup after loading the view, typically from a nib.
   }
 
