@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C93E3481B87CF5700A2EACF /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C93E3471B87CF5700A2EACF /* LoginViewController.swift */; };
 		9ED398A61B87C8C6006AF2D3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ED398A51B87C8C6006AF2D3 /* AppDelegate.swift */; };
 		9ED398A81B87C8C6006AF2D3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ED398A71B87C8C6006AF2D3 /* ViewController.swift */; };
 		9ED398AB1B87C8C6006AF2D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9ED398A91B87C8C6006AF2D3 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6C93E3471B87CF5700A2EACF /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		9ED398A01B87C8C6006AF2D3 /* practiceBNB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = practiceBNB.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ED398A41B87C8C6006AF2D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9ED398A51B87C8C6006AF2D3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 		9ED398971B87C8C6006AF2D3 = {
 			isa = PBXGroup;
 			children = (
+				6C93E3471B87CF5700A2EACF /* LoginViewController.swift */,
 				9ED398A21B87C8C6006AF2D3 /* practiceBNB */,
 				9ED398B81B87C8C7006AF2D3 /* practiceBNBTests */,
 				9ED398A11B87C8C6006AF2D3 /* Products */,
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C93E3481B87CF5700A2EACF /* LoginViewController.swift in Sources */,
 				9ED398A81B87C8C6006AF2D3 /* ViewController.swift in Sources */,
 				9ED398A61B87C8C6006AF2D3 /* AppDelegate.swift in Sources */,
 			);
@@ -411,6 +415,7 @@
 				9ED398C11B87C8C7006AF2D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9ED398C21B87C8C7006AF2D3 /* Build configuration list for PBXNativeTarget "practiceBNBTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +424,7 @@
 				9ED398C41B87C8C7006AF2D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
