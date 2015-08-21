@@ -13,6 +13,7 @@ class MapsViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         println("practiceBNB sounds really neat")
+        println("these maps don't work")
     }
 
     override func didReceiveMemoryWarning() {
